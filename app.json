@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Eureka Net Zero",
+    "slug": "eureka-net-zero",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/eureka-netzero-logo.png",
+    "splash": {
+      "image": "./assets/images/eureka-netzero-splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#034443"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/eureka-netzero-logo.png",
+        "backgroundColor": "#034443"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
